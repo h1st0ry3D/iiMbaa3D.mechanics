@@ -1,1 +1,1 @@
-# iiMbaa3D-mechanics
+# iiMbaa3D.mechanics
